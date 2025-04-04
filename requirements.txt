@@ -1,0 +1,26 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# Deep learning
+torch>=2.0.0
+transformers>=4.28.0
+
+# Exchange API
+python-binance>=1.0.16
+
+# Data handling
+ccxt>=3.0.0
+ta>=0.10.0  # Technical Analysis library
+
+# Testing and quality
+pytest>=7.3.0
+black>=23.3.0
+flake8>=6.0.0
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
